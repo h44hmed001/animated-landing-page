@@ -28,7 +28,7 @@ html,body{
     align-items: center;
     justify-content: space-between;
     margin-right: 3px;
-    
+    color: rgb(255, 255, 255);
 }
 .nav-centered{
     gap:35px;
@@ -76,6 +76,7 @@ html,body{
     flex-direction: column;
     align-items: center;
     margin-top: 70px;
+    color: rgb(255, 255, 255);
 }
 .button{
     background-color: brown;
@@ -101,4 +102,5 @@ html,body{
     left: 50%;
     bottom: 10%;
     transform: translate(-50%,0);
+    color: white;
 }
